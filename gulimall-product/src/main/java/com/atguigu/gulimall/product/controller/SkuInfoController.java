@@ -20,9 +20,9 @@ import com.atguigu.common.utils.R;
 /**
  * sku信息
  *
- * @author chenshun
+ * @author hanyidong
  * @email hanyidong@gmail.com
- * @date 2020-04-30 10:48:47
+ * @date 2020-04-30 14:55:08
  */
 @RestController
 @RequestMapping("product/skuinfo")
